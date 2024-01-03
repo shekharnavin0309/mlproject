@@ -1,0 +1,33 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled source
+__pycache__/
+*.pyc
+
+# Distribution / packaging
+*.pyz
+*.pyzw
+*.pyz-64
+*.pyzw-64/
+*.egg-info/
+dist/
+build/
+
+# Python installer files
+*.manifest
+*.spec
+*.pyinstaller/
+__pycache__/
